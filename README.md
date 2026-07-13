@@ -79,6 +79,24 @@ Profesor en la escuela internacional de programación [Algorithmics](https://alg
 
 ## 💼 Proyectos
 
+### 🧠 SaaS propio
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="center">🏋️ GymOS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SaaS-desarrollado_desde_cero-58a6ff?style=flat-square" alt="SaaS desarrollado desde cero"/>
+      </p>
+      <p align="center"><b>El sistema operativo de tu gimnasio.</b> SaaS desarrollado desde cero para la gestión completa de gimnasios: socios, clases, cobros y control de acceso desde un único panel — sin Excel, sin papel, sin caos. Ya en funcionamiento en S21 Fitness Center.</p>
+      <p align="center">
+        <a href="https://nexoporte.es/productos/gymos"><img src="https://img.shields.io/badge/🔗_Ver_producto-1f6feb?style=for-the-badge" alt="Ver producto"/></a>
+        <a href="https://s21fitnesscenter.cloud"><img src="https://img.shields.io/badge/🔗_Verlo_en_acción-238636?style=for-the-badge" alt="Verlo en acción"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🌐 En producción
 
 <table>
@@ -86,12 +104,12 @@ Profesor en la escuela internacional de programación [Algorithmics](https://alg
     <td width="50%" valign="top">
       <h3 align="center">🚛 MadaTruck</h3>
       <p align="center"><a href="https://madatruck.es"><img src="https://img.shields.io/badge/🔗_madatruck.es-1f6feb?style=for-the-badge" alt="madatruck.es"/></a></p>
-      <p align="center">Plataforma de gestión integral para taller mecánico: base de datos centralizada y administración completa del negocio en una sola herramienta.</p>
+      <p align="center">Aplicación web a medida para la gestión interna de un taller de vehículos: órdenes de trabajo, clientes y seguimiento de tareas desde un único panel.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏋️ GymOS · S21 Fitness Center</h3>
+      <h3 align="center">💪 S21 Fitness Center</h3>
       <p align="center"><a href="https://s21fitnesscenter.cloud"><img src="https://img.shields.io/badge/🔗_s21fitnesscenter.cloud-1f6feb?style=for-the-badge" alt="s21fitnesscenter.cloud"/></a></p>
-      <p align="center">Aplicación de desarrollo propio para la gestión integral de gimnasios, implantada en S21 Fitness Center como portal del centro.</p>
+      <p align="center">Plataforma completa para centro deportivo: acceso de socios, reserva de clases, rutinas y panel de administración — impulsada por GymOS.</p>
     </td>
   </tr>
   <tr>
@@ -103,14 +121,14 @@ Profesor en la escuela internacional de programación [Algorithmics](https://alg
     <td width="50%" valign="top">
       <h3 align="center">🪚 Carpintería Hnos. Aparicio</h3>
       <p align="center"><a href="https://www.carpinteriahnosaparicio.com"><img src="https://img.shields.io/badge/🔗_carpinteriahnosaparicio.com-1f6feb?style=for-the-badge" alt="carpinteriahnosaparicio.com"/></a></p>
-      <p align="center">Web corporativa para carpintería: presencia digital del negocio y escaparate de sus trabajos.</p>
+      <p align="center">Presencia digital para empresa familiar de carpintería: web rápida, accesible y adaptada a móvil para mostrar sus trabajos y facilitar el contacto con clientes.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 Academia Versus</h3>
       <p align="center"><a href="https://academiaversus.com"><img src="https://img.shields.io/badge/🔗_academiaversus.com-1f6feb?style=for-the-badge" alt="academiaversus.com"/></a></p>
-      <p align="center">Sitio web de la Academia Versus, centro Algorithmics: presentación del centro y de su oferta formativa.</p>
+      <p align="center">Web corporativa para la academia de formación Versus (centro Algorithmics): diseño moderno orientado a la captación de alumnos, con información de cursos y metodología.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📦 NEXOporte</h3>
@@ -125,7 +143,7 @@ Profesor en la escuela internacional de programación [Algorithmics](https://alg
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
 | ✂️ **Lumira** | Aplicación de gestión de reservas y citas para barberías, peluquerías y salones de belleza | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
-| 📊 **CRM multifuncional** | CRM modular orientado a la gestión integral de cualquier negocio | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| 📊 **CRM multifuncional** | Aplicación de gestión integral para pequeñas empresas: clientes, tareas, proyectos y facturación en un solo lugar | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
 | 🎲 **Cuenkon** | Sitio web para la asociación friki de Cuenca: comunidad, eventos y actividades | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
 
 ---
