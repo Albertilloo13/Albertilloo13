@@ -16,12 +16,23 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 💼 **Full Stack Developer** en [**NEXOporte**](https://nexoporte.es/)
-- 👨‍🏫 **Docente de programación** en **Algorithmics Cuenca** desde 2022
-- 🌍 Desde **España** 🇪🇸
-- ⚙️ Desarrollo **aplicaciones web completas**: desde la base de datos y la API hasta la interfaz de usuario
-- 📈 Actualmente profundizando en **arquitectura de software y DevOps**
-- 📫 Contacto: [alberto.nexoporte@gmail.com](mailto:alberto.nexoporte@gmail.com)
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <ul>
+        <li>💼 <b>Full Stack Developer</b> en <a href="https://nexoporte.es/"><b>NEXOporte</b></a></li>
+        <li>👨‍🏫 <b>Docente de programación</b> en <b>Algorithmics Cuenca</b> desde 2022</li>
+        <li>🌍 Desde <b>España</b> 🇪🇸</li>
+        <li>⚙️ Desarrollo <b>aplicaciones web completas</b>: desde la base de datos y la API hasta la interfaz de usuario</li>
+        <li>📈 Actualmente profundizando en <b>arquitectura de software y DevOps</b></li>
+        <li>📫 Contacto: <a href="mailto:alberto.nexoporte@gmail.com">alberto.nexoporte@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="45%" valign="middle">
+      <img src="assets/code-alberto.svg" width="100%" alt="Editor de código escribiendo el perfil de Alberto"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
