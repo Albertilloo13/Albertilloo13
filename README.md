@@ -68,28 +68,51 @@ Desarrollo y mantenimiento de las plataformas web y servicios digitales de la em
 
 ---
 
-## 📊 Estadísticas
+## 💼 Proyectos
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albertilloo13&theme=github_dark" alt="Estadísticas de GitHub"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albertilloo13&theme=github_dark" alt="Lenguajes más usados"/>
-</div>
+### 🌐 En producción
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertilloo13&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚛 MadaTruck</h3>
+      <p align="center"><a href="https://madatruck.es"><img src="https://img.shields.io/badge/🔗_madatruck.es-1f6feb?style=for-the-badge" alt="madatruck.es"/></a></p>
+      <p align="center">Sistema de gestión integral para un taller: base de datos y control completo del negocio.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏋️ GymOS · S21 Fitness Center</h3>
+      <p align="center"><a href="https://s21fitnesscenter.cloud"><img src="https://img.shields.io/badge/🔗_s21fitnesscenter.cloud-1f6feb?style=for-the-badge" alt="s21fitnesscenter.cloud"/></a></p>
+      <p align="center">App desarrollada para el control total de un gimnasio. Web de acceso para S21 Fitness Center.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Restaurante Galilea</h3>
+      <p align="center"><a href="https://restaurantegalilea.es"><img src="https://img.shields.io/badge/🔗_restaurantegalilea.es-1f6feb?style=for-the-badge" alt="restaurantegalilea.es"/></a></p>
+      <p align="center">Web escaparate para restaurante con reserva de mesas online.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🪚 Carpintería Hnos. Aparicio</h3>
+      <p align="center"><a href="https://www.carpinteriahnosaparicio.com"><img src="https://img.shields.io/badge/🔗_carpinteriahnosaparicio.com-1f6feb?style=for-the-badge" alt="carpinteriahnosaparicio.com"/></a></p>
+      <p align="center">Web promocional para una carpintería.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📦 NEXOporte</h3>
+      <p align="center"><a href="https://nexoporte.es"><img src="https://img.shields.io/badge/🔗_nexoporte.es-58a6ff?style=for-the-badge" alt="nexoporte.es"/></a></p>
+      <p align="center">Página principal de los servicios digitales que desarrollo, además de los productos que ofrecemos en NEXOporte.</p>
+    </td>
+  </tr>
+</table>
 
----
+### 🚧 En desarrollo
 
-## 🐍 Actividad
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albertilloo13/Albertilloo13/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Albertilloo13/Albertilloo13/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/Albertilloo13/Albertilloo13/output/github-snake-dark.svg" alt="Snake animation"/>
-  </picture>
-</div>
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| ✂️ **Lumira** | App de reservas para salones: barberías, peluquerías y salones de belleza | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| 📊 **CRM multifuncional** | CRM con gestión total de negocios | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| 🎲 **Cuenkon** | Web para la asociación friki de Cuenca | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
 
 ---
 
