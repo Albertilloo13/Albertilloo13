@@ -20,7 +20,7 @@
 - 🌍 Desde **España** 🇪🇸
 - ⚙️ Desarrollo **aplicaciones web completas**: desde la base de datos y la API hasta la interfaz de usuario
 - 📈 Actualmente profundizando en **arquitectura de software y DevOps**
-- 📫 Contacto: [alberto@nexoporte.es](mailto:alberto@nexoporte.es)
+- 📫 Contacto: [alberto.nexoporte@gmail.com](mailto:alberto.nexoporte@gmail.com)
 
 ---
 
@@ -122,8 +122,8 @@ Desarrollo y mantenimiento de las plataformas web y servicios digitales de la em
   <a href="https://nexoporte.es/">
     <img src="https://img.shields.io/badge/Web-nexoporte.es-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"/>
   </a>
-  <a href="mailto:alberto@nexoporte.es">
-    <img src="https://img.shields.io/badge/Email-alberto%40nexoporte.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:alberto.nexoporte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alberto.nexoporte%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
