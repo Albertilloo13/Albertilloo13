@@ -5,7 +5,7 @@
 
 <!-- Texto que se escribe solo -->
 <a href="https://github.com/Albertilloo13">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+NEXOporte;JavaScript+%7C+TypeScript+%7C+Python;APIs%2C+automatizaci%C3%B3n+y+aplicaciones+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+NEXOporte;JavaScript+%7C+TypeScript+%7C+Python;Docente+de+programaci%C3%B3n+en+Algorithmics;APIs%2C+automatizaci%C3%B3n+y+aplicaciones+web" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Albertilloo13&style=flat-square&color=58a6ff&label=Visitas" alt="Visitas al perfil"/>
@@ -17,6 +17,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 💼 **Full Stack Developer** en [**NEXOporte**](https://nexoporte.es/)
+- 👨‍🏫 **Docente de programación** en **Algorithmics Cuenca** desde 2022
 - 🌍 Desde **España** 🇪🇸
 - ⚙️ Desarrollo **aplicaciones web completas**: desde la base de datos y la API hasta la interfaz de usuario
 - 📈 Actualmente profundizando en **arquitectura de software y DevOps**
@@ -34,6 +35,14 @@ Desarrollo y mantenimiento de las plataformas web y servicios digitales de la em
 - 🔌 **APIs REST** e integraciones con servicios de terceros
 - 🤖 **Automatización de procesos** internos y herramientas de gestión
 - 🐳 **Despliegue y mantenimiento** de servicios con Docker y CI/CD
+
+### Algorithmics Cuenca — Docente de programación · desde 2022
+
+Profesor en la escuela internacional de programación [Algorithmics](https://algorithmics.org/), formando a niños y jóvenes en:
+
+- 👨‍💻 **Programación** y pensamiento computacional
+- 🧩 **Lógica y resolución de problemas** aplicadas a proyectos reales
+- 🎮 Desarrollo de **proyectos y videojuegos** como herramienta de aprendizaje
 
 ---
 
@@ -77,31 +86,36 @@ Desarrollo y mantenimiento de las plataformas web y servicios digitales de la em
     <td width="50%" valign="top">
       <h3 align="center">🚛 MadaTruck</h3>
       <p align="center"><a href="https://madatruck.es"><img src="https://img.shields.io/badge/🔗_madatruck.es-1f6feb?style=for-the-badge" alt="madatruck.es"/></a></p>
-      <p align="center">Sistema de gestión integral para un taller: base de datos y control completo del negocio.</p>
+      <p align="center">Plataforma de gestión integral para taller mecánico: base de datos centralizada y administración completa del negocio en una sola herramienta.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏋️ GymOS · S21 Fitness Center</h3>
       <p align="center"><a href="https://s21fitnesscenter.cloud"><img src="https://img.shields.io/badge/🔗_s21fitnesscenter.cloud-1f6feb?style=for-the-badge" alt="s21fitnesscenter.cloud"/></a></p>
-      <p align="center">App desarrollada para el control total de un gimnasio. Web de acceso para S21 Fitness Center.</p>
+      <p align="center">Aplicación de desarrollo propio para la gestión integral de gimnasios, implantada en S21 Fitness Center como portal del centro.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🍽️ Restaurante Galilea</h3>
       <p align="center"><a href="https://restaurantegalilea.es"><img src="https://img.shields.io/badge/🔗_restaurantegalilea.es-1f6feb?style=for-the-badge" alt="restaurantegalilea.es"/></a></p>
-      <p align="center">Web escaparate para restaurante con reserva de mesas online.</p>
+      <p align="center">Web corporativa del restaurante con sistema de reservas de mesas online integrado.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🪚 Carpintería Hnos. Aparicio</h3>
       <p align="center"><a href="https://www.carpinteriahnosaparicio.com"><img src="https://img.shields.io/badge/🔗_carpinteriahnosaparicio.com-1f6feb?style=for-the-badge" alt="carpinteriahnosaparicio.com"/></a></p>
-      <p align="center">Web promocional para una carpintería.</p>
+      <p align="center">Web corporativa para carpintería: presencia digital del negocio y escaparate de sus trabajos.</p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Academia Versus</h3>
+      <p align="center"><a href="https://academiaversus.com"><img src="https://img.shields.io/badge/🔗_academiaversus.com-1f6feb?style=for-the-badge" alt="academiaversus.com"/></a></p>
+      <p align="center">Sitio web de la Academia Versus, centro Algorithmics: presentación del centro y de su oferta formativa.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">📦 NEXOporte</h3>
       <p align="center"><a href="https://nexoporte.es"><img src="https://img.shields.io/badge/🔗_nexoporte.es-58a6ff?style=for-the-badge" alt="nexoporte.es"/></a></p>
-      <p align="center">Página principal de los servicios digitales que desarrollo, además de los productos que ofrecemos en NEXOporte.</p>
+      <p align="center">Plataforma principal de NEXOporte: escaparate de los servicios y productos digitales que desarrollamos.</p>
     </td>
   </tr>
 </table>
@@ -110,9 +124,9 @@ Desarrollo y mantenimiento de las plataformas web y servicios digitales de la em
 
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
-| ✂️ **Lumira** | App de reservas para salones: barberías, peluquerías y salones de belleza | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
-| 📊 **CRM multifuncional** | CRM con gestión total de negocios | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
-| 🎲 **Cuenkon** | Web para la asociación friki de Cuenca | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| ✂️ **Lumira** | Aplicación de gestión de reservas y citas para barberías, peluquerías y salones de belleza | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| 📊 **CRM multifuncional** | CRM modular orientado a la gestión integral de cualquier negocio | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
+| 🎲 **Cuenkon** | Sitio web para la asociación friki de Cuenca: comunidad, eventos y actividades | ![En desarrollo](https://img.shields.io/badge/en_desarrollo-f0b429?style=flat-square) |
 
 ---
 
